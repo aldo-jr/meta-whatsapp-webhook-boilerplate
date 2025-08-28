@@ -1,0 +1,20 @@
+{
+  "name": "meta-whatsapp-webhook-boilerplate",
+  "version": "1.0.0",
+  "description": "Simple Node.js server for Meta WhatsApp webhook",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"No tests configured\""
+  },
+  "keywords": [
+    "meta",
+    "whatsapp",
+    "webhook"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
